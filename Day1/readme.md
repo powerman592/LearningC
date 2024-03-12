@@ -1,1 +1,0 @@
-This is the file folder from the code I ran on day1. Very simple "Hello World" code just getting IDE and compiler set up and making sure everything is working. I am using CodeBlocks for my IDE and MinGW as my compiler.
